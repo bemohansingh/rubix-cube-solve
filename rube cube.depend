@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1369759749 source:d:\my project\sdl projects\rubby cube solve\main.cpp
+	"load.h"
+
+1362505860 d:\my project\sdl projects\rubby cube solve\load.h
+	"iloadfile.h"
+
+1362463720 d:\my project\sdl projects\rubby cube solve\iloadfile.h
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<string>
+	<conio.h>
+	<stdio.h>
+

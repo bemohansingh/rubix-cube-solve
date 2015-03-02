@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1357995201 source:d:\itclub\main.cpp
+	<iostream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+	<string>
+	"mouse.h"
+	<windows.h>
+
+1357759130 d:\itclub\mouse.h
+
+1358362529 source:d:\own\main.cpp
+	<iostream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+	<string>
+	"mouse.h"
+	<windows.h>
+
+1358362961 d:\own\mouse.h
+
